@@ -38,31 +38,3 @@
 height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 <!-- End Google Tag Manager (noscript) -->
 
-<header>
-	<div class="container">
-		<div class="row end-xs middle-xs">
-			<div class="col-xs logo" data-aos="fade" data-aos-delay="300" data-aos-easing="ease-in-out">
-				<div class="box">
-					<img src="https://coalitionforanewdallas.org/wp-content/uploads/2015/03/Coalition-for-a-New-Dallas-logo@2x.png" class="logo-img" alt="Coalition For A New Dallas Logo">
-				</div>
-			</div>
-			<div class="col-xs">
-				<div class="box">
-					<ul class="header-navigation">
-						<li data-aos="fade" data-aos-easing="ease-in-out"><a href="">About</a></li>
-						<li data-aos="fade" data-aos-easing="ease-in-out" data-aos-delay="100"><a href="">Issues</a></li>
-						<li data-aos="fade" data-aos-easing="ease-in-out" data-aos-delay="200"><a href="">Get Involved</a></li>
-						<li data-aos="fade" data-aos-easing="ease-in-out" data-aos-delay="300"><a href="">News</a></li>
-						<li data-aos="fade" data-aos-easing="ease-in-out" data-aos-delay="400"><a href="">Donate</a></li>
-						<li class="header-navigation__social-icon header-navigation__social-icon--first" data-aos="fade" data-aos-delay="400"><a href=""><i class="fab fa-facebook-f"></i></a></li>
-						<li class="header-navigation__social-icon" data-aos="fade"  data-aos-delay="400"><a href=""><i class="fab fa-twitter"></i></a></li>
-						<li class="header-navigation__social-icon" data-aos="fade" data-aos-delay="400"><a href=""><i class="fab fa-instagram"></i></a></li>
-					</ul>
-					<ul>
-
-					</ul>
-				</div>
-			</div>
-		</div>
-	</div>
-</header>
