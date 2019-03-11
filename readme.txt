@@ -21,3 +21,21 @@ sr-starter is the definitive WordPress HTML5 boilerplate starter theme. We've ca
 == ==
 
 If you're creating your own theme or client project, open up all files and do a "Find and Replace All in All Files" on the word "sr-starter" with your own slug and prefix.
+
+
+
+# Libraries We Use
+
+[AOS - Animate on scroll library](https://michalsnik.github.io/aos/)
+
+[Normalize.css: Make browsers render all elements more consistently.](https://necolas.github.io/normalize.css/)
+
+[Font Awesome 5](https://fontawesome.com/)
+
+[Flexbox Grid](http://flexboxgrid.com/)
+
+[Normalize.css: Make browsers render all elements more consistently.](https://necolas.github.io/normalize.css/)
+
+[nk-o/jarallax](https://github.com/nk-o/jarallax)
+
+[nk-o/jarallax](https://github.com/nk-o/jarallax)
